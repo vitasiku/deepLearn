@@ -3,6 +3,7 @@ A step by step guide to deep learning tutorial
 
 #Setup
 
+- Install git, github account.
 - Install python and virtual environments: python3, pipenv
 - Install Deep Learning libraries: Keras, Tensorflow, PyTorch
 
